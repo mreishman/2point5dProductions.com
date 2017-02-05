@@ -8,6 +8,13 @@ overflow-y: scroll;
 }
 
 
+#bannerForMobileLogo
+{
+	position:absolute;
+	top:-7px;
+	width:100%;
+}
+
 #newFont
 {
 	
@@ -1161,6 +1168,11 @@ a:active {color: #FFF;} /*FFF*/
 			
 	}
 	
+	#upperBarLogoText
+	{
+		display: none;
+	}
+	
 	
 		div.sidebarRight
 	{
@@ -1433,6 +1445,13 @@ input, select, textarea {
 	
 	
 }
+	
+	
+#bannerForMobileLogo
+{
+	top:-15px;
+}
+	
 	
 
 #mobilePoints
@@ -1742,13 +1761,14 @@ body
 {
 	
 	#newFont
-{
+	{
+		font-size:200%;
+	}
 	
-
-	font-size:200%;
-	
-	
-}
+	#bannerForMobileLogo
+	{
+		top:-15px;
+	}
 	
 	#mobilePoints
 	{
