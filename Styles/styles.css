@@ -541,6 +541,16 @@ body
 			 
 }
 
+#nav li:hover{
+	
+	background-color: #333333;
+}
+
+#nav .navSub:hover
+{
+	background-color: #BBBBBB;
+}
+
 a:link {color: #FFF; text-decoration:none;} /*FFF*/
 
 
