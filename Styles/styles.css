@@ -414,6 +414,7 @@ div#scrollable2 {
 .show-feedbackBar
 {
 	display:inline;	
+	cursor: pointer;
 }
 
 #socialHeightMobile
@@ -1985,4 +1986,3 @@ body
  }
 	
 }
-mobi
